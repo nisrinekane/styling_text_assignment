@@ -1,0 +1,46 @@
+.my, .cloud, .projects, .contact {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.cloud-box, .project-box, .contact-box {
+    padding: 1px;
+    margin: 30px;
+}
+
+.contact, .projects {
+    font-weight: lighter;
+}
+
+.cloud-box {
+    background-color: #000;
+    text-align: left;
+    font-weight: bold;
+}
+
+.my {
+    color: white;
+}
+
+.cloud {
+    color: cyan;
+}
+
+.project-box {
+    background-color: rebeccapurple;
+    text-align: center;
+}
+
+.projects {
+    font-style: italic;
+    color: #fff;
+}
+
+.contact-box {
+    background-color: lightblue;
+    text-align: right;
+}
+
+.contact {
+    color: #000;
+    text-decoration: underline;
+}
